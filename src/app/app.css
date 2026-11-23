@@ -1,0 +1,24 @@
+.main-content {
+  min-height: calc(100vh - 140px);
+}
+
+.app-footer {
+  background: white;
+  border-top: 1px solid var(--border);
+  padding: 1.5rem 0;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.footer-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.credits {
+  margin-top: 0.25rem;
+  font-size: 0.8rem;
+  color: #94a3b8;
+}
